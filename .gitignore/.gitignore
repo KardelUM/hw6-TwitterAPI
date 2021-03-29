@@ -1,0 +1,4 @@
+secrets.py
+./.pytest_cache/
+./.idea
+./.pytest_cache
